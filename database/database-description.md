@@ -1,5 +1,5 @@
 # Description of database
-## tags
+## sector_category
 One or many of:
 - local
 - central
@@ -7,16 +7,16 @@ One or many of:
 - education
 - defence
 
-## Maintainer category
+## maintainer_category
 One of:
 - public
 - ngo
 - commercial
 
-
 ## base_url
 A required base URL for the public code. For example:
 - https://github.com/alphagov/signon
+
 Within this it is required that the meta files exist for inclusion in the directory.
 
 ## protocol

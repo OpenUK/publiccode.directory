@@ -1,15 +1,15 @@
-# Federated YAML meta-files
-
-The directory index records locations of YAML files whcih hold the contents of each record.
-
-## publiccode.directory.entry.yaml
-
-A YAML directory entry configurration file to be hosted and maintained by the owner of the project.
-
-
 # Data fields:
 
 ## Entry
+
+### entry_type
+
+One of:
+
+- software 
+- casestudy 
+- policy 
+- resource
 
 ### entry_descripton
 

@@ -1,27 +1,10 @@
-# Description of database
-## sector_category
-One or many of:
-- local
-- central
-- healthcare
-- education
-- defence
+# Description of the publiccode.directory database
 
-## maintainer_category
-One of:
-- public
-- ngo
-- commercial
+## URL
 
-## base_url
-A required base URL for the public code. For example:
-- https://github.com/alphagov/signon
+The URL of the federated YAML file
 
-Within this it is required that the meta files exist for inclusion in the directory.
+## date_added
 
-## protocol
-For now, just git. However, who knows what will come in future. If not specified, the sensible default is just 'git'
-
-One of:
-- git
+The date that the entery was added
 

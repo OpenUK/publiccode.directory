@@ -65,3 +65,7 @@ Get in touch with OpenUK and share your thoughts: https://openuk.uk
 Various public organisations have offered support once the indexes are published. These will be listed in the Supporters page.
 
 
+# Licence
+
+This software is OpenUK copyright 2018. It is released under the GPLv3 licence. For details see the 'LICENSE' file.
+

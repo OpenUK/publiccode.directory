@@ -1,6 +1,3 @@
 directory_index:
-    # Public code directory
-    # - URL           https://publiccode.directory
-    # - date_created  2018-02-27
-    entry_1: "https://github.com/OpusVL/govstrap.io"
+    - "https://github.com/OpusVL/govstrap.io"
 

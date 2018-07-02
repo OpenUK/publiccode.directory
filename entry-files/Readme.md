@@ -4,7 +4,7 @@ The directory index records locations of YAML files that hold the contents of ea
 
 ## Sample file
 
-A sample file 'entry.yaml' is supplied here.
+A sample file 'entry.yaml' is supplied here https://github.com/OpenUK/publiccode.directory/blob/master/entry-files/entry.yaml. This file includes the data fields and example usage.
 
 ## publiccode.directory.entry.yaml
 

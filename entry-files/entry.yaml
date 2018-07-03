@@ -1,66 +1,56 @@
 # Data fields:
 
-## Entry
+entry_name: 'Project name'
 
-### entry_type
+# choose one of software, casestudy, policy, resource
 
-One of:
+entry_type: "software"
 
-- software 
-- casestudy 
-- policy 
-- resource
+entry_descripton: "Project description in plain text"
 
-### entry_descripton
+entry_url: 'Project Link on Github'
 
-The description element of the entry, text (Markdown)
+entry_logoURL: 'Project logo if it exists'
 
-### entry_logoURL
+# main langauge of the project
 
-URL for the logo of the entry
+entry_lang: 'en'
 
-### entry_lang
+# country where the project was developed / implemented initialy
+entry_country: 'UK'
 
-Language of the entry
+# the public sector the the project was developed for - local council, government, minister, etc ...
 
-(EN default)
+entry_sector: 'council'
 
-### entry_category 
+# the category the project is meant to be implemented - educatin, healthcare, social, etc...
 
-The sector categorisation of the entry.
+entry_category: 'education'
 
-One or many of:
-- localgov
-- centralgov
-- healthcare
-- education
-- defence
+# projects's protocol type - one of - git, http, https
+entry_protocol: ['git', 'https']
 
-### entry_protocol
+# project licence type - MIT, GNU3, etc...
 
-One of:
-- git
-- http
-- https
+entry_license: 'GNU-3'
 
-### entry_license
+# developer's type of company - public, ngo, commercial, local government, etc ...
 
-The license of the entry
+m_category: ['public', 'ngo']
 
-## Maintainer information
+# developer's location in latitude / longitude
 
-### m_category
+m_geolocation: 
+  lat: '44.434089'
+  long: '26.092751'
 
-One of:
-- public
-- ngo
-- commercial
 
-### m_geolocation 
+# developer/ company name
+m_organisation: 'OpenUK'
 
-lat x long
+# developer / company main website
 
-### m_organisation
+m_organisation_url: 'https://openuk.uk'
 
 
 

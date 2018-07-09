@@ -1,6 +1,8 @@
-# Federated database 'entry' meta-files
+# Federated database 'entry' meta-files of resources
 
-A main centralised index file links to federated entry files which contain the information of a particular record. These 'entry' files can then be managed by the software maintainer or a 3rd party, therefore sharing the upkeep of the records.
+A main centralised index file links to federated entry files which contain the information of a particular resource. These 'entry' files can then be managed by the software maintainer or a 3rd party, therefore sharing the upkeep of the records.
+
+An entry represents software, policies, resources and case studies.
 
 # Sample entries
 
@@ -54,7 +56,6 @@ One or many of:
 - education
 - defence
 
-
 ### entry_category
 
 The operational category that the project will be used in.
@@ -69,9 +70,7 @@ entry_category: 'housing'
 
 ### entry_license
 
-The license of the entry
-
-## Maintainer information
+The license of the code refered to in the entry.
 
 ### developer_category
 
@@ -79,3 +78,21 @@ One of:
 - public
 - ngo
 - commercial
+
+### developer_contact
+
+Details of the original develoer
+
+Mandatory
+- Organisation_name
+
+Optional
+- tel
+- email
+- website
+- address
+
+### maintainers
+
+A list of maintainers for the resource
+TODO: Array

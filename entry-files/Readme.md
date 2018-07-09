@@ -1,21 +1,20 @@
-# Federated YAML meta-files
+# Federated database 'entry' meta-files
 
-The directory index records locations of YAML files that hold the contents of each record.
+A main centralised index file links to federated entry files which contain the information of a particular record. These 'entry' files can then be managed by the software maintainer or a 3rd party, therefore sharing the upkeep of the records.
 
-## Sample file
+# Sample entries
 
-A sample file 'entry.yaml' is supplied here https://github.com/OpenUK/publiccode.directory/blob/master/entry-files/entry.yaml. This file includes the data fields and example usage.
+Sample entry files are available in this repo. Details of the fields processed in the file are listed below.
 
-## publiccode.directory.entry.yaml
+## entry.json
 
-A YAML directory entry configurration file to be hosted and maintained by the owner of the project.
+a JSON file including all fields required for this entry
 
-The directory contains the following types of entry:
+## entry.yaml
 
-- Software
-- Case study
-- Policy
-- resource
+A YAML file example. This will need to be converted to JSON for use as the directory only processes JSON entries.
+
+TODO: add conversion script / facility / command
 
 # Data fields:
 
@@ -30,7 +29,7 @@ One of:
 - policy 
 - resource
 
-### entry_descripton
+### entry_description
 
 The description element of the entry - plain text
 
@@ -60,7 +59,7 @@ One or many of:
 
 One or many of:
 - 
-# the category the project is meant to be implemented - (evoting, website, housing, ticketing etc)
+# the category the project is meant to be implemented - (e-voting, website, housing, ticketing etc)
 
 entry_category: 'housing'
 
@@ -76,8 +75,3 @@ One of:
 - public
 - ngo
 - commercial
-
-
-
-
-

@@ -57,9 +57,13 @@ One or many of:
 
 ### entry_category
 
+The operational category that the project will be used in.
+
 One or many of:
-- 
-# the category the project is meant to be implemented - (e-voting, website, housing, ticketing etc)
+- e-voting
+- website
+- housing
+- ticketing
 
 entry_category: 'housing'
 

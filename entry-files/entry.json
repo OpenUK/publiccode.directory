@@ -1,0 +1,35 @@
+{
+  "entry_name": "Project name",
+
+  "entry_type": "software",
+
+  "entry_descripton": "description",
+
+  "entry_url": "",
+
+  "entry_logoURL": "",
+
+  "entry_lang": "en-GB",
+
+  "entry_origin_country": "UK",
+
+  "entry_sector": "localgov",
+
+  "entry_category": "website",
+
+  "entry_license": "MIT",
+
+  "developer_category": ["public", "commercial"],
+
+  "developer_geolocation": {
+    "lat": 52.371376,
+    "long": -1.263980
+  },
+
+  "developer_name": "",
+
+  "developer_logo_url": "",
+
+  "developer_url": ""
+
+}

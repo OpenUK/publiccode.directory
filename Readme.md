@@ -46,11 +46,16 @@ There are a few ways you can get involved.
 
 ## Technical Git users:
 
-1. Get the database file
-1. Add your entries
-1. Add your metadata files to your repo
-1. Make a pull request on the database
-1. When accepted, you should see your entry in the directory
+Here is how to get your entry into this project:
+
+- Get the [Entry-JSON file](https://github.com/OpenUK/publiccode.directory/blob/master/entry-files/entry.json)
+- Fill in the file in a JSON structure (most fields take strings as values, some take arrays, the example covers all the possible fields)
+- Save it in a publically accessible HTTPS location (maybe your code repo would be the best place?)
+- Create a PR for the [Database Index file](https://github.com/OpenUK/publiccode.directory/blob/master/database/database.index.json) and add the link to your entry file
+- Create an issue and place the link there
+- Once your entry has been checked, it will be entered in to the index and you can manage the entry yourself.
+
+The website will automatically pick up all the changes and refresh the lists on each page reload.
 
 ## Non-technical git users
 

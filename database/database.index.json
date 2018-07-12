@@ -1,7 +1,7 @@
 {
     "directory_index": [
         "https://raw.githubusercontent.com/JohnMica/govstrap.io/master/entry.json",
-        "https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/entry-files/entry.json"
+        "https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/entry-files/entry.json",
         "https://raw.githubusercontent.com/OpusVL/govstrap.io/master/publiccode.directory.entry.json"
     ]
 }

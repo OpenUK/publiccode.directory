@@ -2,11 +2,7 @@
 
 Candidates for inclusion in the directory are found within the `database-candidates.md` file.
 
-## URL
+The database index just contains a JSON array of entry files. Any audit date (who created, when) is taken from the VCS audit.
 
-The URL of the federated JSON file
-
-## date_added
-
-The date that the entery was added
+This index is the only centeralised paert of the index.
 

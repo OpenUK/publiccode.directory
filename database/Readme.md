@@ -4,7 +4,7 @@ Candidates for inclusion in the directory are found within the `database-candida
 
 ## URL
 
-The URL of the federated YAML file
+The URL of the federated JSON file
 
 ## date_added
 

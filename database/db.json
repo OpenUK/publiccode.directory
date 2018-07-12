@@ -1,6 +1,5 @@
 {
     "directory_index": [
-        "https://github.com/JohnMica/govstrap.io/blob//master/entry.json",
-        "https://github.com/OpusVL/govstrap.io/blob/master/entry.json",
+        "https://raw.githubusercontent.com/JohnMica/govstrap.io/master/entry.json"
     ]
 }

@@ -1,7 +1,5 @@
 {
     "directory_index": [
-        "https://raw.githubusercontent.com/JohnMica/govstrap.io/master/entry.json",
-        "https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/entry-files/entry.json",
         "https://raw.githubusercontent.com/OpusVL/govstrap.io/master/publiccode.directory.entry.json",
         "https://git.fsfe.org/pmpc/directory/raw/branch/master/CTT-spain.json",
  		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Consul.json",
@@ -20,6 +18,5 @@
  		"https://git.fsfe.org/pmpc/directory/raw/branch/master/code_gov.json",
  		"https://git.fsfe.org/pmpc/directory/raw/branch/master/developers_it.json",
  		"https://git.fsfe.org/pmpc/directory/raw/branch/master/gov_dig_serv.json"      
-
     ]
 }

@@ -30,6 +30,18 @@
 
   "developer_logo_url": "",
 
-  "developer_url": ""
+  "developer_url": "",
+
+  "entry_maintainers": [{
+      "name": "",
+      "link": "",
+      "repo": ""
+    },
+    {
+      "name": "",
+      "link": "",
+      "repo": ""
+    }
+  ]
 
 }

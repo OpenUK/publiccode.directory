@@ -8,22 +8,24 @@ entry_type: "software"
 
 entry_descripton: "Project description in plain text"
 
-entry_logoURL: 'URL of project logo (if it exists)'
+entry_url: 'Project Link on Github'
 
-# Primary langauge of the project (ISO/IEC 15897 tag)
+entry_logoURL: 'Project logo if it exists'
+
+# main langauge of the project
 
 entry_lang: 'en-GB'
 
-# Country where the project was developed / implemented initialy
+# country where the project was developed / implemented initialy
 entry_origin_country: 'UK'
 
-# the public sector the the project was developed for (localgov, healthcare etc)
+# the public sector the the project was developed for - local council, government, minister, etc ...
 
-entry_sector: 'localgov'
+entry_sector: 'council'
 
-# the category the project is meant to be implemented - (evoting, website, housing, ticketing etc)
+# the category the project is meant to be implemented - educatin, healthcare, social, etc...
 
-entry_category: 'housing'
+entry_category: 'education'
 
 # project licence type - MIT, GNU3, etc...
 
@@ -39,14 +41,23 @@ developer_geolocation:
   lat: '44.434089'
   long: '26.092751'
 
+
 # developer/ company name
 developer_name: 'OpenUK'
-
-developer_logo_url: 
 
 # developer / company main website
 
 developer_url: 'https://openuk.uk'
 
-# Maintainer... Many
+entry_maintainers: 
+  -
+    name: ""
+    link: ""
+    repo: ""
+
+  -
+    name: ""
+    link: ""
+    repo: ""
+
 

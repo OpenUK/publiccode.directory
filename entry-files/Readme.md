@@ -26,9 +26,9 @@ TODO: add conversion script / facility / command
 
 One of:
 
-- software 
-- casestudy 
-- policy 
+- software
+- casestudy
+- policy
 - resource
 
 ### entry_description
@@ -50,6 +50,7 @@ Language of the entry
 The sector categorisation of the entry.
 
 One or many of:
+
 - localgov
 - centralgov
 - healthcare
@@ -61,6 +62,7 @@ One or many of:
 The operational category that the project will be used in.
 
 One or many of:
+
 - e-voting
 - website
 - housing
@@ -75,6 +77,7 @@ The license of the code refered to in the entry.
 ### developer_category
 
 One of:
+
 - public
 - ngo
 - commercial
@@ -84,9 +87,11 @@ One of:
 Details of the original develoer
 
 Mandatory
+
 - Organisation_name
 
 Optional
+
 - tel
 - email
 - website
@@ -94,5 +99,4 @@ Optional
 
 ### maintainers
 
-A list of maintainers for the resource
-TODO: Array
+Added the maintainers array as well to the `json` and `yaml` files

@@ -1,9 +1,11 @@
 {
-  "entry_name": "Demonstration entry",
+  "entry_name": "Project name",
 
-  "entry_type": "Resource",
+  "entry_type": "software",
 
-  "entry_descripton": "Description line of demo entry",
+  "entry_descripton": "description",
+
+  "entry_url": "",
 
   "entry_logoURL": "",
 
@@ -11,23 +13,35 @@
 
   "entry_origin_country": "UK",
 
-  "entry_sector": "Test",
+  "entry_sector": "localgov",
 
-  "entry_category": "Test",
+  "entry_category": "website",
 
-  "entry_license": "GNU-3",
+  "entry_license": "MIT",
 
-  "developer_category": "ngo",
+  "developer_category": ["public", "commercial"],
 
   "developer_geolocation": {
-    "lat": 44.434089,
-    "long": 26.092751
+    "lat": 52.371376,
+    "long": -1.263980
   },
 
-  "developer_name": "OpenUK",
+  "developer_name": "",
 
-  "developer_logo_url": "https://openuk.uk/wp-content/uploads/2018/02/OpenUK-Logo.png",
+  "developer_logo_url": "",
 
-  "developer_url": "https://openuk.uk"
+  "developer_url": "",
+
+  "entry_maintainers": [{
+      "name": "",
+      "link": "",
+      "repo": ""
+    },
+    {
+      "name": "",
+      "link": "",
+      "repo": ""
+    }
+  ]
 
 }

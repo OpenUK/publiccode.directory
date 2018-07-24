@@ -6,7 +6,7 @@ entry_name: 'Project name'
 
 entry_type: "software"
 
-entry_descripton: "Project description in plain text"
+entry_description: "Project description in plain text"
 
 entry_url: 'Project Link on Github'
 

@@ -1,47 +1,77 @@
 {
   "entry_name": "Project name",
 
-  "entry_type": "software",
+  "entry_type": ["software", "resource", "case study", "some other type"],
 
-  "entry_descripton": "description",
+  "entry_description":
+    "description of the project - please mind the double quotes inside the description and make sure you escape them like this - \" ; also do not use the 'Enter' key as the description has to be one paragraph. ",
 
-  "entry_url": "",
+  "entry_url": "https://project.repository",
 
-  "entry_logoURL": "",
+  "entry_logoURL": "https://project.logo - if it exists",
 
   "entry_lang": "en-GB",
 
   "entry_origin_country": "UK",
 
-  "entry_sector": "localgov",
+  "entry_sector": ["localgov", "council", "education", "medicine", "etc ..."],
 
-  "entry_category": "website",
+  "entry_category": [
+    "website",
+    "software product",
+    "election software",
+    "education platform",
+    "specific type of category ",
+    "etc ..."
+  ],
 
-  "entry_license": "MIT",
+  "entry_license": [
+    {
+      "licence_name": "MIT",
+      "formaly_approved": "FSF"
+    },
 
-  "developer_category": ["public", "commercial"],
+    {
+      "licence_name": "GNU-3",
+      "formaly_approved": "OSI"
+    }
+  ],
 
-  "developer_geolocation": {
-    "lat": 52.371376,
-    "long": -1.263980
-  },
-
-  "developer_name": "",
-
-  "developer_logo_url": "",
-
-  "developer_url": "",
-
-  "entry_maintainers": [{
-      "name": "",
-      "link": "",
-      "repo": ""
+  "entry_developers": [
+    {
+      "developer_name": "developer name",
+      "developer_logo_url": "https://developer.logo",
+      "developer_url": "https://developer.domain",
+      "developer_category": "Public",
+      "developer_geolocation": {
+        "lat": 52.371376,
+        "long": -1.26398
+      }
     },
     {
-      "name": "",
-      "link": "",
-      "repo": ""
+      "developer_name": "developer name",
+      "developer_logo_url": "https://developer.logo",
+      "developer_url": "https://developer.domain",
+      "developer_category": "commercial",
+      "developer_geolocation": {
+        "lat": 53.371376,
+        "long": -1.23398
+      }
+    }
+  ],
+
+  "entry_maintainers": [
+    {
+      "name": "maintainer 1",
+      "link": "https://maintainer1.url",
+      "logo_URL": "https://maintainer1.logo.url",
+      "repository": "https://git.repository if it exists"
+    },
+    {
+      "name": "maintainer 2",
+      "link": "https://maintainer2.url",
+      "logo_URL": "https://maintainer2.logo.url",
+      "repository": "https://git.repository if it exists"
     }
   ]
-
 }

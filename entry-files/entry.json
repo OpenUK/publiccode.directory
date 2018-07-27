@@ -3,8 +3,7 @@
 
   "entry_type": ["software", "resource", "case study", "some other type"],
 
-  "entry_description":
-    "description of the project - please mind the double quotes inside the description and make sure you escape them like this - \" ; also do not use the 'Enter' key as the description has to be one paragraph. ",
+  "entry_description": "description of the project - please mind the double quotes inside the description and make sure you escape them like this - \" ; also do not use the 'Enter' key as the description has to be one paragraph. ",
 
   "entry_url": "https://project.repository",
 
@@ -25,20 +24,18 @@
     "etc ..."
   ],
 
-  "entry_license": [
-    {
+  "entry_license": [{
       "licence_name": "MIT",
       "formaly_approved": "FSF"
     },
 
     {
       "licence_name": "GNU-3",
-      "formaly_approved": "OSI"
+      "formally_approved": "OSI"
     }
   ],
 
-  "entry_developers": [
-    {
+  "entry_developers": [{
       "developer_name": "developer name",
       "developer_logo_url": "https://developer.logo",
       "developer_url": "https://developer.domain",
@@ -60,8 +57,7 @@
     }
   ],
 
-  "entry_maintainers": [
-    {
+  "entry_maintainers": [{
       "name": "maintainer 1",
       "link": "https://maintainer1.url",
       "logo_URL": "https://maintainer1.logo.url",

@@ -5,9 +5,11 @@
 
   "description": "description of the project - please mind the double quotes inside the description and make sure you escape them like this - \" ; also do not use the 'Enter' key as the description has to be one paragraph. ",
 
-  "url": "https://project.repository",
+  "official_url": "https://project.website.if.it.has.any",
 
-  "logoURL": "https://project.logo - if it exists",
+  "repository": "https://project.repository",
+
+  "logo_url": "https://project.logo - if it exists",
 
   "language": ["EN", "DE"],
 
@@ -24,27 +26,34 @@
     "etc ..."
   ],
 
-  "license": ["MIT", "GNU-3"],
+  "license": ["MIT", "GNU-3", "any-type-of-licence"],
 
   "developers": [
     {
       "developer_name": "developer name",
       "developer_logo_url": "https://developer.logo",
       "developer_url": "https://developer.domain",
-      "developer_category": "Public",
-      "developer_geolocation": {
-        "lat": 52.371376,
-        "long": -1.26398
-      }
+      "developer_category": "Public"
     }
   ],
   "maintainers": [
     {
-      "name": "maintainer 1",
-      "link": "https://maintainer1.url",
-      "logo_URL": "https://maintainer1.logo.url",
-      "repository": "https://git.repository if it exists"
+      "maintainer_name": "maintainer 1",
+      "maintainer_url": "https://maintainer1.url",
+      "maintainer_logo_url": "https://maintainer1.logo.url",
+      "maintainer_repository": "https://git.repository if it exists"
     }
   ],
-  "used_in": ["London, UK", "Munich, GER", "Vienna, AUT"]
+  "users": [
+    {
+      "user_name": "City council",
+      "user_location": "London, UK",
+      "user_logo_url": "https://link.to.logo.if.it.exists",
+      "user_url": "https://link.to.curent.public.website",
+      "user_geolocation": {
+        "lat": 53.371376,
+        "long": -1.23398
+      }
+    }
+  ]
 }

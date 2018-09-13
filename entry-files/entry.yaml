@@ -1,73 +1,77 @@
 # Data fields:
 
-name: 'Project name'
+name: "Project name"
 
 # choose one of software, casestudy, policy, resource
 
-type: 
+type:
   - "software"
   - "resource"
   - "case study"
   - "some other type"
 
-descripton: "description of the project - please mind the double quotes inside the description and make sure you escape them like this - \" ; also do not use the 'Enter' key as the description has to be one paragraph. "
+descripton: 'description of the project - please mind the double quotes inside the description and make sure you escape them like this - " ; also do not use the 'Enter' key as the description has to be one paragraph. '
 
-url: 'Project Link on Github'
+official_url: "Project Official Website"
 
-logoURL: 'Project logo if it exists'
+repository: "Project Repository"
+
+logoURL: "Project logo if it exists"
 
 # main langauge of the project
 
-langauge: 
-  - 'EN'
-  - 'DE'
+langauge:
+  - "EN"
+  - "DE"
 
 # country where the project was developed / implemented initialy
-origin_country: 'UK'
+origin_country: "UK"
 
 # the public sector the the project was developed for - local council, government, minister, etc ...
 
-sector: 
+sector:
   - "localgov"
-  - "council" 
-  - "education" 
+  - "council"
+  - "education"
   - "medicine"
   - "etc ..."
 
 # the category the project is meant to be implemented - educatin, healthcare, social, etc...
 
 category:
-  -  "website"
-  -  "software product"
-  -  "election software"
-  -  "education platform"
-  -  "specific type of category "
-  -  "etc ..."
-  
+  - "website"
+  - "software product"
+  - "election software"
+  - "education platform"
+  - "specific type of category "
+  - "etc ..."
 
 # project licence type - MIT, GNU3, etc...
 
-license: ["MIT",'GNU-3']
+license: ["MIT", "GNU-3", "any-type-of-licence"]
 
 # developer's type of company - public, ngo, commercial, local government, etc ...
 
 developers:
-  -
-    developer_name: "developer name"      developer_logo_url: "https://developer.logo"
+  - 
+    developer_name: "developer name"
+    developer_logo_url: "https://developer.logo"
     developer_url: "https://developer.domain"
     developer_category: "Public"
-    developer_geolocation: 
-        lat: 52.371376,
-        long: -1.26398
-
-maintainers: 
-  -
+    
+maintainers:
+  - 
     name: "maintainer 1"
     link: "https://maintainer1.url"
     logo_URL: "https://maintainer1.logo.url"
     repo: "https://git.repository if it exists"
 
-used_in: 
-  - "London, UK" 
-  - "Munich, GER" 
-  -  "Vienna, AUT"
+users:
+  -
+    user_name: "user 1"
+    user_location: "geographical location - London, UK"
+    user_url: "https://user1.url"
+    user_logo_url: "https://maintainer1.logo.url"
+    user_geolocation:
+      lat: 53.371376
+      long: -1.23398

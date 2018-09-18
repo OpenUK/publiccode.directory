@@ -4,7 +4,7 @@ name: "Project name"
 
 # choose one of software, casestudy, policy, resource
 
-entry_type: ["software", "resource", "case study", "some other type"]
+entry_type: "software"
 
 descripton: "'description of the project - please mind the double quotes inside the description and make sure you escape them like this - \" ; also do not use the 'Enter' key as the description has to be one paragraph."
 

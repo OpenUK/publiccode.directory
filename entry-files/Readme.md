@@ -32,7 +32,7 @@ One of:
 - resource
 
 ```bash
-"entry_type": ["policy"]
+"entry_type": "policy"
 ```
 
 #### description (mandatory)

@@ -40,7 +40,7 @@ One of:
 The description element of the entry - plain text
 
 ```bash
-"description": "Vestibulum lectus mauris ultrices eros in cursus turpis. Lorem ipsum dolor sit amet consectetur adipiscing elit ut. In arcu cursus euismod quis viverra. Augue lacus viverra vitae congue eu consequat ac. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant. Eu volutpat odio facilisis mauris sit."
+"description": "Vestibulum lectus mauris ultrices eros in cursus turpis. Lorem ipsum dolor sit amet consectetur adipiscing elit ut. In arcu cursus euismod quis viverra."
 ```
 
 #### repository (mandatory)
@@ -48,7 +48,7 @@ The description element of the entry - plain text
 The repository where the entry project lives at (for development, maintainance, etc)
 
 ```bash
-    "repository": "https://project.repository"
+"repository": "https://project.repository"
 ```
 
 #### official_url (not mandatory)
@@ -56,7 +56,7 @@ The repository where the entry project lives at (for development, maintainance, 
 The official website that represents the entry being used (software)
 
 ```bash
-  "official_url": "https://project.website.if.it.has.any"
+"official_url": "https://project.website.if.it.has.any"
 ```
 
 #### logo_url (not mandatory)
@@ -64,7 +64,7 @@ The official website that represents the entry being used (software)
 URL for the logo of the entry
 
 ```bash
-  "logo_url": "https://project.logo"
+"logo_url": "https://project.logo"
 ```
 
 #### origin_country (mandatory)
@@ -72,7 +72,7 @@ URL for the logo of the entry
 The initial country where the entry has been developed
 
 ```bash
- "origin_country": "UK"
+"origin_country": "UK"
 ```
 
 #### language (mandatory)
@@ -80,7 +80,7 @@ The initial country where the entry has been developed
 Language of the entry. It can be one languge or multiple languages
 
 ```bash
- "language": ["EN", "DE"]
+"language": ["EN", "DE"]
 ```
 
 #### sector (mandatory)
@@ -97,7 +97,7 @@ One or many of:
 - etc...
 
 ```bash
-  "sector": ["localgov", "council"]
+"sector": ["localgov", "council"]
 ```
 
 #### category (mandatory)
@@ -113,7 +113,7 @@ One or many of:
 - etc...
 
 ```bash
-entry_category: ['housing']
+"entry_category": ['housing']
 ```
 
 #### license (mandatory)
@@ -126,7 +126,7 @@ One or many of:
 - etc...
 
 ```bash
-  "license": ["MIT", "GNU-3" ]
+"license": ["MIT", "GNU-3" ]
 ```
 
 ### developers (mandatory)
@@ -137,25 +137,25 @@ Each developer that participated in the development of the project can have thei
 #### developer_name (mandatory)
 
 ```bash
-    "developer_name": "developer name"
+"developer_name": "developer name"
 ```
 
 #### developer_logo_url (not mandatory)
 
 ```bash
-    "developer_logo_url": "https://developer.logo"
+"developer_logo_url": "https://developer.logo"
 ```
 
 #### developer_url (not mandatory)
 
 ```bash
-    "developer_url": "https://developer.domain"
+ "developer_url": "https://developer.domain"
 ```
 
 #### developer_category (not mandatory)
 
 ```bash
-    "developer_category": "Public"
+"developer_category": "Public"
 ```
 
 ### maintainers
@@ -166,25 +166,25 @@ Each maintainer that sustains of the project can have their details included thu
 #### maintainer_name (mandatory)
 
 ```bash
-    "maintainer_name": "maintainer name"
+"maintainer_name": "maintainer name"
 ```
 
 #### maintainer_url (not mandatory)
 
 ```bash
-    "maintainer_url": "https://maintainer_url"
+"maintainer_url": "https://maintainer_url"
 ```
 
 #### maintainer_logo_url (not mandatory)
 
 ```bash
-    "maintainer_logo_url": "https://maintainer_logo_url"
+"maintainer_logo_url": "https://maintainer_logo_url"
 ```
 
 #### maintainer_repository (not mandatory)
 
 ```bash
-    "maintainer_repository": "https://git.repository"
+"maintainer_repository": "https://git.repository"
 ```
 
 ### users
@@ -195,25 +195,25 @@ Each user can have their details included thus creating exposure. We have the fo
 #### user_name (mandatory)
 
 ```bash
-    "user_name": "user name"
+"user_name": "user name"
 ```
 
 #### user_location (not mandatory)
 
 ```bash
-    "user_location": "London, UK"
+"user_location": "London, UK"
 ```
 
 #### user_logo_url (not mandatory)
 
 ```bash
-    "user_logo_url": "https://user_logo_url"
+"user_logo_url": "https://user_logo_url"
 ```
 
 #### user_url (not mandatory)
 
 ```bash
-    "user_url": "https://user_url"
+"user_url": "https://user_url"
 ```
 
 #### user_geolocation (not mandatory)
@@ -221,8 +221,8 @@ Each user can have their details included thus creating exposure. We have the fo
 User graphical location used for map markers of where the project is currently used. It will be used as a sepparate layer that end-users of the Federated Database can filter projects by
 
 ```bash
-   "user_geolocation": {
-        "lat": 53.371376,
-        "long": -1.23398
-      }
+"user_geolocation": {
+    "lat": 53.371376,
+    "long": -1.23398
+    }
 ```

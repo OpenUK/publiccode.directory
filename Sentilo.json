@@ -3,7 +3,7 @@
 
     "entry_type": "software",
 
-    "descripton": "Sentilo is a platform designed to transfer information recieved from various sensors and acutators to the applications that manage urban services. It is aimed at municipalities or organisations who process big amounts of information received from the terrain.",
+    "description": "Sentilo is a platform designed to transfer information recieved from various sensors and acutators to the applications that manage urban services. It is aimed at municipalities or organisations who process big amounts of information received from the terrain.",
 
     "official_url": "http://www.sentilo.io/",
 
@@ -11,7 +11,7 @@
 
     "logo_url": "http://www.sentilo.io/wordpress/wp-content/uploads/2013/11/sentilo_logo.png",
 
-    "language": ["EN"],
+    "language": [ "EN" ],
 
     "origin_country": "Spain",
 

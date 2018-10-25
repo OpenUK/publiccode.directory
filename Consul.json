@@ -19,7 +19,7 @@
 
     "category": [ "e-voting" ],
 
-    "license": [ "AGPLv3" ],
+    "licence": [ "AGPLv3" ],
 
     "developers": [ {
         "developer_name": "Madrid City Council",

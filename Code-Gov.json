@@ -3,7 +3,7 @@
 
     "entry_type": [ "resource", "policy" ],
 
-    "descripton": "Code.gov is a project with the goal to make US Federal agencies and departments use open source software for their platforms, interact better between each other and save resources.",
+    "description": "Code.gov is a project with the goal to make US Federal agencies and departments use open source software for their platforms, interact better between each other and save resources.",
 
     "official_url": "https://code.gov/#!/",
 
@@ -19,7 +19,7 @@
 
     "category": [ "website" ],
 
-    "license": [ "CC0 1.0 Universal" ],
+    "licence": [ "CC0 1.0 Universal" ],
 
     "developers": [ {
         "developer_name": "Federal Government",

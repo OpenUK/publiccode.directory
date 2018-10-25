@@ -3,7 +3,7 @@
 
     "entry_type": "software",
 
-    "descripton": "Supervizor is an online visualization tool for financial data of the Ministry of Finance in the Czech Republic, it collects open data (suppliers, expense despcription, amount) and groups invoices by categories, making it simple for everyone to monitor and gather information on budget spendings",
+    "description": "Supervizor is an online visualization tool for financial data of the Ministry of Finance in the Czech Republic, it collects open data (suppliers, expense despcription, amount) and groups invoices by categories, making it simple for everyone to monitor and gather information on budget spendings",
 
     "official_url": "http://data.mfcr.cz/supervizor/",
 
@@ -11,7 +11,7 @@
 
     "logo_url": "http://data.mfcr.cz/sites/default/files/opendata_1_0.png",
 
-    "language": ["CZ"],
+    "language": [ "CZ" ],
 
     "origin_country": "Czech Republic",
 

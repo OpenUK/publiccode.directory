@@ -11,11 +11,11 @@
 
   "logo_url": "https://project.logo - if it exists",
 
-  "language": ["EN", "DE"],
+  "language": [ "EN", "DE" ],
 
   "origin_country": "UK",
 
-  "sector": ["localgov", "council", "education", "medicine", "etc ..."],
+  "sector": [ "localgov", "council", "education", "medicine", "etc ..." ],
 
   "category": [
     "website",
@@ -26,21 +26,21 @@
     "etc ..."
   ],
 
-  "license": ["MIT", "GNU-3", "any-type-of-licence"],
+  "licence": [ "MIT", "GNU-3", "any-type-of-licence" ],
 
-  "developers": [{
+  "developers": [ {
     "developer_name": "developer name",
     "developer_logo_url": "https://developer.logo",
     "developer_url": "https://developer.domain",
     "developer_category": "Public"
-  }],
-  "maintainers": [{
+  } ],
+  "maintainers": [ {
     "maintainer_name": "maintainer 1",
     "maintainer_url": "https://maintainer1.url",
     "maintainer_logo_url": "https://maintainer1.logo.url",
     "maintainer_repository": "https://git.repository if it exists"
-  }],
-  "users": [{
+  } ],
+  "users": [ {
     "user_name": "City council",
     "user_location": "London, UK",
     "user_logo_url": "https://link.to.logo.if.it.exists",
@@ -49,5 +49,5 @@
       "lat": 53.371376,
       "long": -1.23398
     }
-  }]
+  } ]
 }

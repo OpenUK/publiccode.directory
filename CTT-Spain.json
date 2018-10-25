@@ -1,0 +1,49 @@
+{
+    "name": "Technology transfer centre - CTT ",
+
+    "entry_type": "resource",
+
+    "descripton": "CTT published a directory of IT solutions/applications in the area of e-government. Its main objectives are promotion of reuse in public administrations, development of e-government services and increased interoperability.",
+
+    "official_url": "https://administracionelectronica.gob.es/pae_Home/pae_SolucionesCTT.html#.W78q8hSxU5l",
+
+    "repository": "https://github.com/ctt-gob-es",
+
+    "logo_url": "https://administracionelectronica.gob.es/dam/jcr:6b7320c6-d246-49e4-a5cd-d52a5c7bd288/pae_000003419.png",
+
+    "language": [ "ES" ],
+
+    "origin_country": "Spain",
+
+    "sector": [ "cetralgov" ],
+
+    "category": [ "website" ],
+
+    "licence": [ "EUPL" ],
+
+    "developers": [ {
+        "developer_name": "Spanish government",
+        "developer_logo_url": "https://administracionelectronica.gob.es/resources/templating-kit/themes/pae/images/general/header/logo_gobierno.png",
+        "developer_url": "https://administracionelectronica.gob.es/pae_Home/pae_SolucionesCTT.html#.W1XlzhixVY8",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+        "user_name": "",
+        "user_location": "",
+        "user_logo_url": "",
+        "user_url": "",
+        "user_geolocation": {
+            "lat": 0,
+            "long": 0
+        }
+    } ]
+
+}

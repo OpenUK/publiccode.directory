@@ -1,0 +1,49 @@
+{
+    "name": "Developers Italia",
+
+    "entry_type": "resource",
+
+    "descripton": "Developers Italia is a website, that helps simplify and improve interaction between developers and Italian Public Administration, it provides resources to coordinate and develop public digital projects",
+
+    "official_url": "https://developers.italia.it/",
+
+    "repository": "https://github.com/italia",
+
+    "logo_url": "https://avatars1.githubusercontent.com/u/15377824?s=200&v=4",
+
+    "language": [ "IT" ],
+
+    "origin_country": "Italy",
+
+    "sector": [ "centralgov" ],
+
+    "category": [ "website" ],
+
+    "licence": [ "AGPL-3.0", "CC-BY-4.0", "MIT CC0-1.0", "BSD-3-Clause" ],
+
+    "developers": [ {
+        "developer_name": "Digital Italy Agency, AgID",
+        "developer_logo_url": "https://www.agid.gov.it/themes/custom/agid/logo.svg",
+        "developer_url": "https://www.agid.gov.it/",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+        "user_name": "",
+        "user_location": "",
+        "user_logo_url": "",
+        "user_url": "",
+        "user_geolocation": {
+            "lat": 0,
+            "long": 0
+        }
+    } ]
+
+}

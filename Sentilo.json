@@ -1,0 +1,49 @@
+{
+    "name": "Sentilo",
+
+    "entry_type": "software",
+
+    "descripton": "Sentilo is a platform designed to transfer information recieved from various sensors and acutators to the applications that manage urban services. It is aimed at municipalities or organisations who process big amounts of information received from the terrain.",
+
+    "official_url": "http://www.sentilo.io/",
+
+    "repository": "https://github.com/sentilo/sentilo",
+
+    "logo_url": "http://www.sentilo.io/wordpress/wp-content/uploads/2013/11/sentilo_logo.png",
+
+    "language": ["EN"],
+
+    "origin_country": "Spain",
+
+    "sector": [ "localgov" ],
+
+    "category": [ "sensoring", "reporting" ],
+
+    "licence": [ "GNU-3", "EUPL" ],
+
+    "developers": [ {
+        "developer_name": "Barcelona City Council",
+        "developer_logo_url": "https://www.barcelona.cat/assets/images/brand/banner/2017/logo.png",
+        "developer_url": "https://ajuntament.barcelona.cat/en/",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+        "user_name": "Digit Pakistan",
+        "user_location": "Gujranwala, Pakistan",
+        "user_logo_url": "https://digit.com.pk/wp-content/uploads/2017/10/cropped-digit-01-1.png",
+        "user_url": "https://digit.com.pk/",
+        "user_geolocation": {
+            "lat": 32.1876919,
+            "long": 74.1944529
+        }
+    } ]
+
+}

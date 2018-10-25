@@ -1,0 +1,49 @@
+{
+    "name": "Interlegis",
+
+    "entry_type": [ "resource", "policy" ],
+
+    "descripton": "Program by Brazilian government aimed at modernising the Brazilian Legislative Power, in Municipal, State and Federal levels by using open standarts, developing and releasing IT systems as free and open source software.",
+
+    "official_url": "http://www.interlegis.leg.br/",
+
+    "repository": "https://github.com/interlegis",
+
+    "logo_url": "http://www.interlegis.leg.br/logo.png",
+
+    "language": [ "PT" ],
+
+    "origin_country": "Brazil",
+
+    "sector": [ "cetralgov" ],
+
+    "category": [ "website" ],
+
+    "licence": [ "GPL-3.0" ],
+
+    "developers": [ {
+        "developer_name": "Brazilian Senat",
+        "developer_logo_url": "https://www12.senado.leg.br/hpsenado/++resource++senado.hpsenado/icones/logo.svg",
+        "developer_url": "https://www12.senado.leg.br/hpsenado",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+        "user_name": "",
+        "user_location": "",
+        "user_logo_url": "",
+        "user_url": "",
+        "user_geolocation": {
+            "lat": 0,
+            "long": 0
+        }
+    } ]
+
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Code.gov",
+
+    "entry_type": [ "resource", "policy" ],
+
+    "descripton": "Code.gov is a project with the goal to make US Federal agencies and departments use open source software for their platforms, interact better between each other and save resources.",
+
+    "official_url": "https://code.gov/#!/",
+
+    "repository": "https://github.com/GSA/code-gov-web",
+
+    "logo_url": "https://raw.githubusercontent.com/consul/consul/master/public/consul_logo.png",
+
+    "language": [ "EN" ],
+
+    "origin_country": "USA",
+
+    "sector": [ "cetralgov" ],
+
+    "category": [ "website" ],
+
+    "license": [ "CC0 1.0 Universal" ],
+
+    "developers": [ {
+        "developer_name": "Federal Government",
+        "developer_logo_url": "https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-sm-bl.png",
+        "developer_url": "https://www.whitehouse.gov/",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+        "user_name": "",
+        "user_location": "",
+        "user_logo_url": "",
+        "user_url": "",
+        "user_geolocation": {
+            "lat": 0,
+            "long": 0
+        }
+    } ]
+
+}

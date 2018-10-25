@@ -1,0 +1,60 @@
+{
+  "name": "X-Road",
+
+  "entry_type": "software",
+
+  "descripton": "The X-Road project is a system that connects information from different institution's databases",
+
+  "official_url": "https://e-estonia.com/solutions/interoperability-services/x-road/",
+
+  "repository": "https://github.com/ria-ee/X-Road",
+
+  "logo_url": "https://raw.githubusercontent.com/consul/consul/master/public/consul_logo.png",
+
+  "language": [ "EN" ],
+
+  "origin_country": [ "Estonia", "Finland" ],
+
+  "sector": [ "cetralgov" ],
+
+  "category": [ "data_exchange" ],
+
+  "licence": [ "MIT" ],
+
+  "developers": [ {
+    "developer_name": "Republic of Estonia Information System Authority",
+    "developer_logo_url": "https://www.ria.ee/extensions/ria_2011/images/RIA_logo14_en.png",
+    "developer_url": "https://www.ria.ee/en/x-road-cooperation.html",
+    "developer_category": "Public"
+  } ],
+
+  "maintainers": [ {
+    "maintainer_name": "",
+    "maintainer_url": "",
+    "maintainer_logo_url": "",
+    "maintainer_repository": ""
+  } ],
+
+  "users": [ {
+      "user_name": "Gobierno Dominicano",
+      "user_location": "Santo Domingo, Dominican Republic",
+      "user_logo_url": "https://avatars3.githubusercontent.com/u/16108039?s=200&v=4",
+      "user_url": "http://optic.gob.do/",
+      "user_geolocation": {
+        "lat": 18.4860575,
+        "long": -69.9312117
+      }
+    },
+    {
+      "user_name": "Population Register Centre",
+      "user_location": "Helsinki, Finland",
+      "user_logo_url": "https://avatars0.githubusercontent.com/u/11345641?s=200&v=4",
+      "user_url": "https://esuomi.fi/?lang=en",
+      "user_geolocation": {
+        "lat": 60.1698557,
+        "long": 24.9383791
+      }
+    }
+  ]
+
+}

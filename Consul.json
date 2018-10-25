@@ -1,0 +1,48 @@
+{
+    "name": "Consul",
+
+    "entry_type": "software",
+
+    "descripton": "Consul is an Open Government and E-Participation Web Software, that allows citizens to take part in votes, to support projects and to create issue-based petitions",
+
+    "official_url": "http://consulproject.org/en/",
+
+    "repository": "https://github.com/consul/consul/",
+
+    "logo_url": "https://raw.githubusercontent.com/consul/consul/master/public/consul_logo.png",
+
+    "language": [ "EN" ],
+
+    "origin_country": "Spain",
+
+    "sector": [ "localgov" ],
+
+    "category": [ "e-voting" ],
+
+    "license": [ "AGPLv3" ],
+
+    "developers": [ {
+        "developer_name": "Madrid City Council",
+        "developer_logo_url": "http://consulproject.org/img/logos/madrid.png",
+        "developer_url": "https://decide.madrid.es/",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+    "users": [ {
+        "user_name": "",
+        "user_location": "",
+        "user_logo_url": "",
+        "user_url": "",
+        "user_geolocation": {
+            "lat": 0,
+            "long": 0
+        }
+    } ]
+
+}

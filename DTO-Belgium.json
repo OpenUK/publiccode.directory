@@ -1,0 +1,49 @@
+{
+    "name": "DG Digital Transformation",
+
+    "entry_type": "policy",
+
+    "descripton": "Digital Transformation Office in Belgium is promoting innovation policies trough open data and open standarts",
+
+    "official_url": "https://bosa.belgium.be/en/activities/dg-digital-transformation",
+
+    "repository": "https://github.com/Fedict",
+
+    "logo_url": "https://avatars1.githubusercontent.com/u/5146742?s=200&v=4",
+
+    "language": [ "BE" ],
+
+    "origin_country": "Belgium",
+
+    "sector": [ "cetralgov" ],
+
+    "category": [ "website" ],
+
+    "licence": [ "LGPL-3.0", "BSD-2-Clause" ],
+
+    "developers": [ {
+        "developer_name": "The Directorate-General Digital Transformation",
+        "developer_logo_url": "https://bosa.belgium.be/sites/default/files/bosa_logo_en_300x901.jpg",
+        "developer_url": "https://bosa.belgium.be/en/activities/dg-digital-transformation",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+        "user_name": "",
+        "user_location": "",
+        "user_logo_url": "",
+        "user_url": "",
+        "user_geolocation": {
+            "lat": 0,
+            "long": 0
+        }
+    } ]
+
+}

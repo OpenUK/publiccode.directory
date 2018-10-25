@@ -1,0 +1,49 @@
+{
+    "name": "US Department of Defense Digital Service",
+
+    "entry_type": "policy",
+
+    "descripton": "US Department of defense initiates different campaigns, such as bug bounty problems and publishing source code under open source licence within Code.mil",
+
+    "official_url": "https://dds.mil/",
+
+    "repository": "https://github.com/deptofdefense",
+
+    "logo_url": "https://avatars0.githubusercontent.com/u/13172082?s=200&v=4",
+
+    "language": [ "EN" ],
+
+    "origin_country": "USA",
+
+    "sector": [ "cetralgov" ],
+
+    "category": [ "defence" ],
+
+    "licence": [ "MIT", "Apache", "AGPL3" ],
+
+    "developers": [ {
+        "developer_name": "Federal Government",
+        "developer_logo_url": "https://www.whitehouse.gov/wp-content/themes/whitehouse/assets/img/white-house-logo-sm-bl.png",
+        "developer_url": "https://www.whitehouse.gov/",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+        "user_name": "",
+        "user_location": "",
+        "user_logo_url": "",
+        "user_url": "",
+        "user_geolocation": {
+            "lat": 0,
+            "long": 0
+        }
+    } ]
+
+}

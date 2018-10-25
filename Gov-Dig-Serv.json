@@ -1,0 +1,189 @@
+{
+    "name": "Government Digital Service",
+
+    "entry_type": "policy",
+
+    "descripton": "The Government Digital Service is a part of Cbinet Office, responsible for building governmental website, designing new digital services, taking care of security issues, working on digital technolgies procurement, making information accessible.",
+
+    "official_url": "https://gds.blog.gov.uk/",
+
+    "repository": "https://github.com/alphagov",
+
+    "logo_url": "https://avatars1.githubusercontent.com/u/596977?s=200&v=4",
+
+    "language": [ "EN" ],
+
+    "origin_country": "UK",
+
+    "sector": [ "centralgov" ],
+
+    "category": [ "website" ],
+
+    "licence": [ "Open Government Licence v3.0" ],
+
+    "developers": [ {
+        "developer_name": "Government Digital Service",
+        "developer_logo_url": "https://avatars1.githubusercontent.com/u/596977?s=200&v=4",
+        "developer_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+            "user_name": "Fidelity International",
+            "user_location": "Kent, UK",
+            "user_logo_url": "https://avatars3.githubusercontent.com/u/17474425?s=200&v=4",
+            "user_url": "https://www.fidelity.co.uk/home",
+            "user_geolocation": {
+                "lat": 51.215120,
+                "long": 0.248656
+            }
+        },
+        {
+            "user_name": "Code for NL",
+            "user_location": "Kent, UK",
+            "user_logo_url": "https://www.codefor.nl/img/larger_CfNL.png",
+            "user_url": "https://www.codefor.nl/en/",
+            "user_geolocation": {
+                "lat": 51.933243,
+                "long": 4.429595
+            }
+        },
+        {
+            "user_name": "PEBS-Management Consulting",
+            "user_location": "Sofia, Bulgaria",
+            "user_logo_url": "",
+            "user_url": "www.pebs.bg",
+            "user_geolocation": {
+                "lat": 42.6977082,
+                "long": 23.321867500000053
+            }
+        },
+        {
+            "user_name": "London Borough of Sutton",
+            "user_location": "London Borough of Sutton, United Kingdom",
+            "user_logo_url": "https://avatars3.githubusercontent.com/u/23189202?s=200&v=4",
+            "user_url": "https://www.sutton.gov.uk/",
+            "user_geolocation": {
+                "lat": 51.362598,
+                "long": -0.194448
+            }
+        },
+        {
+            "user_name": "HM Land Registry",
+            "user_location": "Croydon, United Kingdom",
+            "user_logo_url": "https://avatars2.githubusercontent.com/u/6876797?s=200&v=4",
+            "user_url": "https://www.gov.uk/land-registry",
+            "user_geolocation": {
+                "lat": 51.374515,
+                "long": -0.098700
+            }
+        },
+        {
+            "user_name": "Infinity Works",
+            "user_location": "Leeds, United Kingdom",
+            "user_logo_url": "https://avatars0.githubusercontent.com/u/11678300?s=200&v=4",
+            "user_url": "https://www.infinityworks.com/",
+            "user_geolocation": {
+                "lat": 53.796832,
+                "long": -1.554198
+            }
+        },
+        {
+            "user_name": "HM Revenue & Customs",
+            "user_location": "Leeds, United Kingdom",
+            "user_logo_url": "https://avatars3.githubusercontent.com/u/5755339?s=200&v=4",
+            "user_url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+            "user_geolocation": {
+                "lat": 51.392819,
+                "long": -0.276447
+            }
+        },
+        {
+            "user_name": "Go Free Range",
+            "user_location": "London, United Kingdom",
+            "user_logo_url": "https://avatars2.githubusercontent.com/u/61936?s=200&v=4",
+            "user_url": "http://gofreerange.com/",
+            "user_geolocation": {
+                "lat": 51.516104,
+                "long": -0.060314
+            }
+        },
+        {
+            "user_name": "Ministry of Justice",
+            "user_location": "London, United Kingdom",
+            "user_logo_url": "https://avatars2.githubusercontent.com/u/2203574?s=200&v=4",
+            "user_url": "http://www.justice.gov.uk/",
+            "user_geolocation": {
+                "lat": 51.499771,
+                "long": -0.134792
+            }
+        },
+        {
+            "user_name": "NHS Leadership Academy",
+            "user_location": "London, United Kingdom",
+            "user_logo_url": "https://avatars0.githubusercontent.com/u/2964439?s=200&v=4",
+            "user_url": "https://www.leadershipacademy.nhs.uk/",
+            "user_geolocation": {
+                "lat": 53.792887,
+                "long": -1.545273
+            }
+        },
+        {
+            "user_name": "Royal Borough of Kingston-upon-Thames",
+            "user_location": "Kingston-upon-Thames, United Kingdom",
+            "user_logo_url": "https://avatars2.githubusercontent.com/u/23189181?s=200&v=4",
+            "user_url": "https://www.kingston.gov.uk/",
+            "user_geolocation": {
+                "lat": 51.411827,
+                "long": -0.303637
+            }
+        },
+        {
+            "user_name": "States of Jersey",
+            "user_location": "Kingston-upon-Thames, United Kingdom",
+            "user_logo_url": "https://avatars2.githubusercontent.com/u/23189181?s=200&v=4",
+            "user_url": "https://www.kingston.gov.uk/",
+            "user_geolocation": {
+                "lat": 49.219367,
+                "long": -2.138286
+            }
+        },
+        {
+            "user_name": "Connect Media",
+            "user_location": "Nairobi, Kenya",
+            "user_logo_url": "https://www.connectmedia.co.ke/wp-content/uploads/2015/01/connect-media-logo-2.png",
+            "user_url": "https://www.connectmedia.co.ke",
+            "user_geolocation": {
+                "lat": -1.304553,
+                "long": 36.822668
+            }
+        },
+        {
+            "user_name": "Ministry of Justice Czech Republic",
+            "user_location": "Nairobi, Kenya",
+            "user_logo_url": "https://avatars3.githubusercontent.com/u/39525552?s=200&v=4",
+            "user_url": "http://www.justice.cz/",
+            "user_geolocation": {
+                "lat": 50.069508,
+                "long": 14.418783
+            }
+        },
+        {
+            "user_name": "Digital Identity Labs",
+            "user_location": "Manchester, United Kingdom",
+            "user_logo_url": "https://avatars3.githubusercontent.com/u/389862?s=200&v=4",
+            "user_url": "http://digitalidentitylabs.com/",
+            "user_geolocation": {
+                "lat": 53.478140,
+                "long": -2.242340
+            }
+        }
+    ]
+}

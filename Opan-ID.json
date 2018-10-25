@@ -1,0 +1,49 @@
+{
+    "name": "Open Electronic Identity",
+
+    "entry_type": "software",
+
+    "descripton": "Encrypting technology, that is used in relation with electronic identity (ID card, mobile ID, digital ID).",
+
+    "official_url": "https://www.ria.ee/en/public-key-infrastructure.html",
+
+    "repository": "https://github.com/open-eid",
+
+    "logo_url": "https://raw.githubusercontent.com/consul/consul/master/public/consul_logo.png",
+
+    "language": [ "EN" ],
+
+    "origin_country": "Estonia",
+
+    "sector": [ "cetralgov" ],
+
+    "category": [ "data_exchange" ],
+
+    "licence": [ "LGPL-2.1" ],
+
+    "developers": [ {
+        "developer_name": "Republic of Estonia Information System Authority",
+        "developer_logo_url": "https://www.ria.ee/extensions/ria_2011/images/RIA_logo14_en.png",
+        "developer_url": "https://www.ria.ee/en/public-key-infrastructure.html",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+        "user_name": "Gitlab OÜ",
+        "user_location": "Tallinn, Estonia",
+        "user_logo_url": "http://gitlab.eu/images/GiTLAB-9f6f4a6f.png",
+        "user_url": "http://gitlab.eu/",
+        "user_geolocation": {
+            "lat": 59.43696079999999,
+            "long": 24.753574699999945
+        }
+    } ]
+
+}

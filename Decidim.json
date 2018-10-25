@@ -1,0 +1,49 @@
+{
+    "name": "Decidim",
+
+    "entry_type": "software",
+
+    "descripton": "participatory democracy framework software, allowing citizens to debate, attend meetings, create proposals and vote",
+
+    "official_url": "https://decidim.org/",
+
+    "repository": "https://github.com/decidim",
+
+    "logo_url": "https://github.com/decidim/decidim/blob/master/logo.svg",
+
+    "language": [ "EN" ],
+
+    "origin_country": "Spain",
+
+    "sector": [ "localgov" ],
+
+    "category": [ "e-voting" ],
+
+    "licence": [ "AGPLv3" ],
+
+    "developers": [ {
+        "developer_name": "Barcelona City Council",
+        "developer_logo_url": "https://www.barcelona.cat/assets/images/brand/banner/2017/logo.png",
+        "developer_url": "https://ajuntament.barcelona.cat/en/",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+        "user_name": "",
+        "user_location": "",
+        "user_logo_url": "",
+        "user_url": "",
+        "user_geolocation": {
+            "lat": 0,
+            "long": 0
+        }
+    } ]
+
+}

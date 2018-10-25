@@ -1,0 +1,80 @@
+{
+    "name": "Oskari",
+
+    "entry_type": "software",
+
+    "descripton": "Oskari is an open source platform, that allows to create various maps, analyse spatial and statistical data, visualiye geographical information",
+
+    "official_url": "http://www.oskari.org/",
+
+    "repository": "https://github.com/oskariorg/",
+
+    "logo_url": "http://www.oskari.org/images/oskari_logo_white.png",
+
+    "language": [ "EN" ],
+
+    "origin_country": "Finland",
+
+    "sector": [ "cetralgov" ],
+
+    "category": [ "map" ],
+
+    "licence": [ "MIT", "EUPL" ],
+
+    "developers": [ {
+        "developer_name": "National Land Survey of Finland",
+        "developer_logo_url": "https://www.maanmittauslaitos.fi/themes/custom/mml/images/english_logo_rgb.svg",
+        "developer_url": "https://www.maanmittauslaitos.fi/en",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+            "user_name": "Dimenteq Oy",
+            "user_location": "Espoo, Finland",
+            "user_logo_url": "https://avatars3.githubusercontent.com/u/9817485?s=200&v=4",
+            "user_url": "https://www.dimenteq.fi/",
+            "user_geolocation": {
+                "lat": 60.2054911,
+                "long": 24.655899999999974
+            }
+        },
+        {
+            "user_name": "Finnish Transport Agency",
+            "user_location": "Finland",
+            "user_logo_url": "https://avatars2.githubusercontent.com/u/5737015?s=200&v=4",
+            "user_url": "http://www.fta.fi/",
+            "user_geolocation": {
+                "lat": 60.1698557,
+                "long": 24.9383791
+            }
+        },
+        {
+            "user_name": "Swedish Spatial Data Infrastructure",
+            "user_location": "Sweden",
+            "user_logo_url": "https://www.geodata.se/wwwroot/geodata/images/geodata%20logo.png",
+            "user_url": "http://www.geodata.se/",
+            "user_geolocation": {
+                "lat": 60.6748796,
+                "long": 17.14127259999998
+            }
+        },
+        {
+            "user_name": "Helsinki Region Environmental Services",
+            "user_location": "Helsinki, Finland",
+            "user_logo_url": "https://avatars0.githubusercontent.com/u/26163678?s=200&v=4",
+            "user_url": "https://www.hsy.fi/en/residents/pages/default.aspx",
+            "user_geolocation": {
+                "lat": 60.1698557,
+                "long": 24.9383791
+            }
+        }
+    ]
+
+}

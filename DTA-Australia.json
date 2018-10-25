@@ -1,0 +1,49 @@
+{
+    "name": "Digital Transformation Office",
+
+    "entry_type": "policy",
+
+    "descripton": "The digital service standart is a policy, which ensures that digital teams build accessible government services with all new source code open by default",
+
+    "official_url": "https://www.dta.gov.au/",
+
+    "repository": "https://github.com/AusDTO",
+
+    "logo_url": "https://avatars0.githubusercontent.com/u/11763427?s=200&v=4",
+
+    "language": [ "en-AU" ],
+
+    "origin_country": "Australia",
+
+    "sector": [ "cetralgov" ],
+
+    "category": [ "website" ],
+
+    "licence": [ "MIT" ],
+
+    "developers": [ {
+        "developer_name": "Australian government, Digital Transformation Agency",
+        "developer_logo_url": "https://www.dta.gov.au/images/logo_dta_inline.png",
+        "developer_url": "https://www.dta.gov.au/",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+        "user_name": "",
+        "user_location": "",
+        "user_logo_url": "",
+        "user_url": "",
+        "user_geolocation": {
+            "lat": 0,
+            "long": 0
+        }
+    } ]
+
+}

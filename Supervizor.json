@@ -1,0 +1,46 @@
+{
+    "name": "Supervizor",
+
+    "entry_type": "software",
+
+    "descripton": "Supervizor is an online visualization tool for financial data of the Ministry of Finance in the Czech Republic, it collects open data (suppliers, expense despcription, amount) and groups invoices by categories, making it simple for everyone to monitor and gather information on budget spendings",
+
+    "official_url": "http://data.mfcr.cz/supervizor/",
+
+    "repository": "https://github.com/otevrena-data-mfcr/Supervizor",
+
+    "logo_url": "http://data.mfcr.cz/sites/default/files/opendata_1_0.png",
+
+    "language": ["CZ"],
+
+    "origin_country": "Czech Republic",
+
+    "sector": [ "cetralgov" ],
+
+    "category": [ "finance" ],
+
+    "licence": [ "GPLv3" ],
+
+    "developers": [ {
+        "developer_name": "Ministry of Finance of the Czech Republic",
+        "developer_logo_url": "https://en.wikipedia.org/wiki/Finance_Minister_of_the_Czech_Republic#/media/File:Ministry_of_Finance_of_the_Czech_Republic_logo-en.png",
+        "developer_url": "https://www.mfcr.cz/en/",
+        "developer_category": "Public"
+    } ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+        "user_name": "",
+        "user_location": "",
+        "user_logo_url": "",
+        "user_url": "",
+        "user_geolocation": {}
+    } ]
+
+}

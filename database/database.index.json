@@ -1,23 +1,23 @@
 {
-    "directory_index": [
-        "https://raw.githubusercontent.com/OpusVL/govstrap.io/master/publiccode.directory.entry.json",
-        "https://raw.githubusercontent.com/JohnMica/govstrap.io/master/entry.json",
-        "https://git.fsfe.org/pmpc/directory/raw/branch/master/CTT-spain.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Consul.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/DTA-australia.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/DTO-belgium.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Decidim.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Dod_US.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Fr_open_data.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Interlegis.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Open_id.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Oskari.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/SEGA_Bulgaria.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Sentilo.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Supervizor.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Xroad.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/code_gov.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/developers_it.json",
- 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/gov_dig_serv.json"      
-    ]
+	"directory_index": [
+		"https://raw.githubusercontent.com/OpusVL/govstrap.io/master/publiccode.directory.entry.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/CTT-Spain.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/CTT-Spain.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/Code-Gov.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/Consul.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/DOD-USA.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/DTA-Australia.json",
+		"https://github.com/OpenUK/publiccode.directory/blob/master/DTO-Belgium.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/Decidim.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/Developers-Italia.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/SEGA-Bulgaria.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/X-Road.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/FR-Open-Data.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/Gov-Dig-Serv.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/Interlegis.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/Opan-ID.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/Oskari.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/Sentilo.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/Supervizor.json"
+	]
 }

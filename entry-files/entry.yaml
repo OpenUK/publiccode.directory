@@ -6,17 +6,17 @@ name: "Project name"
 
 entry_type: "software"
 
-descripton: "'description of the project - please mind the double quotes inside the description and make sure you escape them like this - \" ; also do not use the 'Enter' key as the description has to be one paragraph."
+description: "'description of the project - please mind the double quotes inside the description and make sure you escape them like this - \" ; also do not use the 'Enter' key as the description has to be one paragraph."
 
 official_url: "The official website for the project"
 
 repository: "Project Repository"
 
-logoURL: "Project logo if it exists"
+logo_url: "Project logo if it exists"
 
 # main langauge of the project
 
-langauge: ["EN", "DE"]
+language: ["EN", "DE"]
 
 # country where the project was developed / implemented initialy
 
@@ -52,10 +52,10 @@ developers:
   }
 maintainers:
   {
-    name: "maintainer 1",
-    link: "https://maintainer1.url",
-    logo_URL: "https://maintainer1.logo.url",
-    repo: "https://git.repository if it exists",
+    maintainer_name: "maintainer 1",
+    maintainer_url: "https://maintainer1.url",
+    maintainer_logo_url: "https://maintainer1.logo.url",
+    maintainer_repository: "https://git.repository if it exists",
   }
 users:
   {

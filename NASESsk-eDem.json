@@ -1,0 +1,49 @@
+{
+  "name": "NASES eDemokracia/MOD",
+
+  "entry_type": "software",
+
+  "description": "Modul Open Data (MOD) is a base for Slovak natiaonat Open Data catalogue and is a fork of CKAN project along with assorted suite of extensions.",
+
+  "official_url": "https://data.gov.sk/about",
+
+  "repository": "https://github.com/nases-sk/eDemokracia-MOD",
+
+  "logo_url": "https://data.gov.sk/logo.png",
+
+  "language": [ "SK" ],
+
+  "origin_country": "SK",
+
+  "sector": [ "centralgov", "localgov" ],
+
+  "category": [
+    "website",
+    "software product"
+  ],
+
+  "licence": [ "AGPL-3" ],
+
+  "developers": [ {
+    "developer_name": "NASES",
+    "developer_logo_url": "https://www.nases.gov.sk/wp-content/themes/nases/assets/img/nases.png",
+    "developer_url": "https://www.nases.gov.sk/kontakt/index.html",
+    "developer_category": "Public"
+  } ],
+  "maintainers": [ {
+    "maintainer_name": "NASES",
+    "maintainer_url": "https://www.nases.gov.sk/kontakt/index.html",
+    "maintainer_logo_url": "https://www.nases.gov.sk/wp-content/themes/nases/assets/img/nases.png",
+    "maintainer_repository": "https://github.com/nases-sk/eDemokracia-MOD"
+  } ],
+  "users": [ {
+    "user_name": "NASES",
+    "user_location": "Bratislava, SK",
+    "user_logo_url": "https://www.nases.gov.sk/wp-content/themes/nases/assets/img/nases.png",
+    "user_url": "https://www.nases.gov.sk/kontakt/index.html",
+    "user_geolocation": {
+      "lat": 48.16476,
+      "long": 17.15536
+    }
+  } ]
+}

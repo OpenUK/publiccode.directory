@@ -1,7 +1,7 @@
 {
     "name": "VocBench (VB3)",
 
-    "entry_type": [ "resource", "platform" ],
+    "entry_type": "resource",
 
     "description": "VocBench is a web-based, multilingual, collaborative development platform for managing OWL ontologies, SKOS(/XL) thesauri, Ontolex-lemon lexicons and generic RDF datasets.",
 

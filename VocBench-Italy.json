@@ -1,0 +1,61 @@
+{
+    "name": "VocBench (VB3)",
+
+    "entry_type": [ "resource", "platform" ],
+
+    "description": "VocBench is a web-based, multilingual, collaborative development platform for managing OWL ontologies, SKOS(/XL) thesauri, Ontolex-lemon lexicons and generic RDF datasets.",
+
+    "official_url": "http://vocbench.uniroma2.it/",
+
+    "repository": "https://bitbucket.org/art-uniroma2/vocbench3",
+
+    "logo_url": "http://vocbench.uniroma2.it/images/PO_Logo.png",
+
+    "language": [ "EN" ],
+
+    "origin_country": "Italy",
+
+    "sector": [ "cetralgov" ],
+
+    "category": [ "web platform" ],
+
+    "licence": [ "Apache License Version 2.0" ],
+
+    "developers": [ {
+        "developer_name": "Semantic Turkey",
+        "developer_logo_url": "http://semanticturkey.uniroma2.it/images/SemanticTurkeyLogo.jpg",
+        "developer_url": "http://semanticturkey.uniroma2.it/",
+        "developer_category": "Public"
+    }, {
+            "developer_name": "The ART Research Group",
+            "developer_logo_url": "http://art.uniroma2.it/images/ArtLogo.jpg",
+            "developer_url": "http://art.uniroma2.it/",
+            "developer_category": "Public"
+    }
+    , {
+            "developer_name": "University of Rome Tor Vergata",
+            "developer_logo_url": "https://web.uniroma2.it/_ext/images/logo_tor_vergata.png",
+            "developer_url": "https://web.uniroma2.it/",
+            "developer_category": "University"
+    }
+     ],
+
+    "maintainers": [ {
+        "maintainer_name": "",
+        "maintainer_url": "",
+        "maintainer_logo_url": "",
+        "maintainer_repository": ""
+    } ],
+
+    "users": [ {
+        "user_name": "Food and Agriculture Organization of the United Nations",
+        "user_location": "Rome, Italy",
+        "user_logo_url": "http://www.fao.org/fileadmin/templates/faoboot/css/img/fao-logo-white.svg",
+        "user_url": "http://www.fao.org/home/en/",
+        "user_geolocation": {
+            "lat": 41.879517,
+            "long": 12.495264
+        }
+    } ]
+
+}

@@ -17,6 +17,7 @@
 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Open-ID.json",
 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Oskari.json",
 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Sentilo.json",
-		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Supervizor.json"
+		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Supervizor.json",
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/VocBench-Italy.json"
 	]
 }

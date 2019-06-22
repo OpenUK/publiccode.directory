@@ -4,7 +4,7 @@ After seeking contributions to an OpenUK NHS report project, it became apparent 
 
 This project delivers a single curated directory index of public code and associated resources with federated entry files to enable the teams who manage the code to take ownership of thier own entry.
 
-Think of it as an internet-based federated and distributed database.
+Think of it as an internet-based federated and distributed database - you can access the database [at https://publiccode.directory/](https://publiccode.directory/).
 
 # What problem does this solve?
 

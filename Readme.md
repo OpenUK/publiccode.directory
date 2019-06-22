@@ -18,7 +18,7 @@ This is an [OpenUK](https://openuk.uk) initiative in association with the EU Fre
 
 # Web interface
 
-A web interface is provided in a [separte repo](https://github.com/OpenUK/publiccode.directory-web-interface) but as the data and code is open, anyone can create their own initerface on top. However, it would make sense to improve the one that is there and also help improve the database.
+A web interface is provided in a [separate repo](https://github.com/OpenUK/publiccode.directory-web-interface) but as the data and code is open, anyone can create their own initerface on top. However, it would make sense to improve the one that is there and also help improve the database.
 
 # Operations
 

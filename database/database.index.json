@@ -19,6 +19,7 @@
 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Sentilo.json",
 		"https://git.fsfe.org/pmpc/directory/raw/branch/master/Supervizor.json",
 		"https://raw.githubusercontent.com/soit-sk/publiccode.directory/master/NASESsk-eDem.json",
-		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/VocBench-Italy.json"
+		"https://raw.githubusercontent.com/OpenUK/publiccode.directory/master/VocBench-Italy.json",
+		"https://raw.githubusercontent.com/Signalen/signalen.org/master/Signalen.json"
 	]
 }
